@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-16_2004",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -41,7 +41,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "aojs4fk2vn",
+    "mbrsiteDomain": "o1v6kfqisv",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
