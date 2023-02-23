@@ -685,7 +685,7 @@ a {
 .cid-tw32d3u86T {
   padding-top: 3rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/background15.jpg");
+  background-image: url("../../../assets/images/news-winter-marathon-2023-85269ab66826174d883667abe24c1299.jpg");
 }
 .cid-tw32d3u86T .mbr-fallback-image.disabled {
   display: none;
@@ -718,7 +718,7 @@ a {
   color: #ffffff;
 }
 .cid-tw31EhQhk6 {
-  padding-top: 0rem;
+  padding-top: 1rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -871,56 +871,6 @@ a {
   }
 }
 .cid-tw35HvuBEc .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-tw35HP1D4x {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tw35HP1D4x .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tw35HP1D4x .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tw35HP1D4x .content-wrapper {
-  background: #fafafa;
-}
-@media (max-width: 991px) {
-  .cid-tw35HP1D4x .content-wrapper .row {
-    flex-direction: column-reverse;
-  }
-  .cid-tw35HP1D4x .content-wrapper .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-tw35HP1D4x .content-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-tw35HP1D4x .content-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tw35HP1D4x .content-wrapper {
-    padding: 5rem 3rem;
-  }
-  .cid-tw35HP1D4x .content-wrapper .text-wrapper {
-    padding-right: 2rem;
-  }
-}
-.cid-tw35HP1D4x .image-wrapper img {
   width: 100%;
   object-fit: cover;
 }
